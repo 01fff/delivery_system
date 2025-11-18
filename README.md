@@ -400,17 +400,6 @@ npm run build
 npm start
 ```
 
-Voce vera:
-```
-OK: Conectado ao MySQL com sucesso!
-OK: Conectado ao MongoDB com sucesso!
-Indices MongoDB criados com sucesso
-Ping MongoDB bem-sucedido
-============================================================
-Servidor iniciado com sucesso!
-============================================================
-```
-
 ### 4. Executar Frontend
 
 **Terminal 2 - Frontend:**
@@ -447,15 +436,15 @@ delivery_system/
 │   ├── src/
 │   │   ├── config/
 │   │   │   ├── database.ts          # Config MySQL
-│   │   │   └── mongodb.ts           # Config MongoDB [NOVO]
+│   │   │   └── mongodb.ts           # Config MongoDB 
 │   │   ├── services/
-│   │   │   └── cacheService.ts      # Servico de cache MongoDB [NOVO]
+│   │   │   └── cacheService.ts      # Servico de cache MongoDB 
 │   │   ├── controllers/             # Controladores
 │   │   ├── routes/                  # Rotas da API
 │   │   ├── middlewares/             # Middlewares (auth, etc)
 │   │   └── types/                   # TypeScript types
-│   ├── test-mongodb.js              # Script de teste MongoDB [NOVO]
-│   ├── MONGODB_SETUP.md             # Documentacao MongoDB [NOVO]
+│   ├── test-mongodb.js              # Script de teste MongoDB 
+│   ├── MONGODB_SETUP.md             # Documentacao MongoDB 
 │   ├── package.json
 │   └── tsconfig.json
 │
@@ -474,8 +463,6 @@ delivery_system/
 │
 └── README.md                        # Este arquivo
 ```
-
-[NOVO] = Novos arquivos MongoDB
 
 ---
 
@@ -615,24 +602,3 @@ delivery_system/
 
 ---
 
-## Licenca
-
-Este projeto e de uso **academico** e foi desenvolvido como trabalho da disciplina de Banco de Dados.
-
----
-
-## Autores
-
-Sistema de Delivery - Trabalho Academico 2024
-
----
-
-## Contribuindo
-
-Este e um projeto academico. Sugestoes e melhorias sao bem-vindas atraves de issues e pull requests.
-
----
-
-**Status do Projeto:** Completo e Funcional
-
-**Ultima atualizacao:** Novembro 2024
