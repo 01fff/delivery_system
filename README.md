@@ -1,6 +1,5 @@
 # Sistema de Delivery - Trabalho Acadêmico
 
-## Banco de Dados II - Projeto Completo
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue.svg)](https://www.mysql.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
