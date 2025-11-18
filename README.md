@@ -1,4 +1,4 @@
-# Sistema de Delivery - Trabalho Academico
+# Sistema de Delivery 
 
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue.svg)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7.0+-green.svg)](https://www.mongodb.com/)
