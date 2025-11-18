@@ -477,8 +477,3 @@ Tabela `log_pedidos` registra:
 - [Scripts SQL](../database/mysql/)
 - [Mermaid Live Editor](https://mermaid.live/) - Para visualizar o diagrama
 
----
-
-**Desenvolvido para:** Trabalho Acadêmico - Banco de Dados II
-**Versão:** 1.0
-**Data:** Novembro 2024
